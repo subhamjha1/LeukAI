@@ -1,6 +1,6 @@
 # LeukAI — Leukemia Stage Classification Web App
 
-**Delhi Technological University | Engineering Physics | 2025**
+**Delhi Technological University | Biotechnology Engineering | 2026**
 
 Deep Learning & Vision–Language Framework for Automated Leukemia Stage Classification from Blood Smear Images.
 
@@ -53,8 +53,8 @@ open index.html
 
 **"Calibration-Aware Ensemble Learning via CNN and VLM Fusion for Leukemia Stage Classification from Peripheral Blood Smear Images"**
 
-- Authors: Priyanshu Kumar, Ramesh, Pranchal Kumar Goraeya
-- Supervisors: Dr. Jayasimhadri M, Dr. Dhirendra Kumar
+- Authors: Subham Jha, Miss Sadia Sultana Juthi
+- Supervisors: Dr. Shivani Khatri
 - Institution: Delhi Technological University
 - Model Accuracy: **99.18%** (Ensemble), **98.6%** (Inception V3 standalone)
 - ECE (Calibration Error): **0.0053** (after VLM ensemble)
